@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49262");
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  position: relative;
+  display: inline-block;
+}
+
+h1:after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 15px;
+  background-color: blue;
+  position: absolute;
+  top: 100%;
+}
