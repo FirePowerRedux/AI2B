@@ -1,0 +1,41 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "deadline": "1900-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": 2,
+      "title": "Hello Again World",
+      "deadline": "2000-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "deadline": "222222-02-21",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    },
+    {
+      "title": "siema",
+      "completed": true,
+      "archived": true,
+      "id": 5
+    },
+    {
+      "title": "muuu",
+      "deadline": "2023-03-12",
+      "completed": true,
+      "archived": true,
+      "id": 6
+    }
+  ]
+}
